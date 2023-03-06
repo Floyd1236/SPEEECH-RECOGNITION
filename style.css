@@ -1,0 +1,18 @@
+body
+{
+	text-align: center;
+	font-family: 'Helvetica';
+}
+
+span
+{
+	font-size: 18px;
+	color: blueviolet;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+canvas
+{
+	background: gold;
+	border-radius: 20px;
+}
